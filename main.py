@@ -19,11 +19,6 @@ def main():
     args = opts.parse_opt()
     logging.info(str(args))
 
-    # 设置随机种子
-    torch.manual_seed(args.seed)
-    torch.backends.cudnn.deterministic = True
-    torch.backends.cudnn.benchmark = False
-    np.random.seed(args.seed)
 
     # 创建分词器
     tokenizer = Tokenizer(args)
