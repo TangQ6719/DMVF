@@ -1,5 +1,7 @@
 # A implementation for the paper "Dual-Modality Visual Feature Flow for Medical Report Generation"
 
+The full code will be uploaded later.
+
 ### Contact
 * If you have any questions, please post it on github issues or email at 2338484151@qq.com
 
