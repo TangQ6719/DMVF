@@ -17,7 +17,7 @@ The repositoriy is based on [M2KT](https://github.com/LX-doctorAI1/M2KT), [CMN](
   - [Download LGK Dataset](https://pan.quark.cn/s/e9cf4c649b8f) Extraction code：LNTL
   - [Download COV-CTR Dataset](https://github.com/mlii0117/COV-CTR)
 
-### Contact
+## Contact
 * If you have any questions, please post it on github issues or email at tangquan6719@gmail.com
 
 ## Reference
