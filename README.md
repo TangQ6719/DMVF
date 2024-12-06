@@ -5,7 +5,7 @@ This is the implementation of Dual-Modality Visual Feature Flow for Medical Repo
 The repositoriy is based on [M2KT](https://github.com/LX-doctorAI1/M2KT), [CMN](https://github.com/zhjohnchan/R2GenCMN), and [R2Gen](https://github.com/cuhksz-nlp/R2Gen).
 
 ## News
-Our work [CGFTrans: Cross-Modal Global Feature Fusion Transformer for Medical Report Generation](https://github.com/TangQ6719/CGFTrans) at JBHI-2024 [paper](https://doi.org/10.1109/JBHI.2024.3414413)).
+Our work [CGFTrans: Cross-Modal Global Feature Fusion Transformer for Medical Report Generation](https://github.com/TangQ6719/CGFTrans) at JBHI-2024 [Paper](https://doi.org/10.1109/JBHI.2024.3414413).
 
 ## Requirements
 
