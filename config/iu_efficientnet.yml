@@ -1,0 +1,9 @@
+_BASE_: iu.yml
+
+# Visual Extractor
+visual_extractor: efficientnet
+pretrain_cnn_file:
+d_vf: 1280
+
+# Output Dir
+save_dir: results
