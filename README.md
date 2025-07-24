@@ -2,8 +2,6 @@
 
 This is the implementation of Dual-Modality Visual Feature Flow for Medical Report Generation at MIA-2024.
 
-The repositoriy is based on [R2Gen](https://github.com/cuhksz-nlp/R2Gen).
-
 ## Requirements
 
 - `torch==1.7.1`
